@@ -8,4 +8,3 @@
 KhacDan/KhacDan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://tc.e-staffing.ne.jp/e-staffing/pwdresetauth/initial?p1=1b967b7b733568dec14dcda8ee39f09f&p2=495fadd4c1c6f6fe07228c67e14bd1dc&p3=36e2508efaeee6f1aad6e0ce35f86dcca981c630&p4=3c3cf68fea08727cdda1cc110ac9339f809a5dc07ede7cc8eb21cb72798be265
